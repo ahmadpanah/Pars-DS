@@ -1,0 +1,2 @@
+Ay2wDictionary==2.2
+pandas==4.7.1
